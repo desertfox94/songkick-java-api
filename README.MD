@@ -1,6 +1,6 @@
-*Forked from:* https://github.com/antoinelarcher/songkick-java-api
-*- Added Maven build configuration, removed jars and root directory*
+***Forked from:*** https://github.com/antoinelarcher/songkick-java-api
 
+*Added Maven build configuration, removed jars and root directory*
 
 Hello you.
 
