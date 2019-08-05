@@ -1,0 +1,25 @@
+*Forked from:* https://github.com/antoinelarcher/songkick-java-api
+*- Added Maven build configuration, removed jars and root directory*
+
+
+Hello you.
+
+This is a very simple Java API to the Songkick service.
+
+I wanted to play with Songkick, but realised I'd need something like this to do so.
+
+To use it:
+
+Songkick sk = new Songkick(YOUR_API_KEY);
+List<Artist> = sk.getArtists("radiohead);
+List<Location> = sk.getLocationsByName("brighton");
+
+etc etc. The public methods are all in com.songkick.api.Songkick
+
+The project lives at http://code.google.com/p/songkick-java-api/
+
+You can get an API key from http://www.songkick.com/api_key_requests/new
+
+Tom Hume
+twhume@gmail.com
+http://tomhume.org/
